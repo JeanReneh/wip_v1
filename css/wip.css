@@ -37,6 +37,10 @@
 body {
   background-color: var(--white-color);
   font-family: var(--body-font-family);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
 }
 
 
